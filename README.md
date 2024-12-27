@@ -1,0 +1,1 @@
+An Amsterdam tourist advertisement page, view using github pages link in url :)
